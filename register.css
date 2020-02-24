@@ -1,0 +1,165 @@
+.container {
+    border: 3px solid black;
+    width: 50%;
+    position: absolute;
+    height: 60%;
+    top: 10%;
+    position:absolute;
+    left: 25%;
+    background-color: silver;
+}
+
+h {
+    position: absolute;
+    top: 25%;
+    left: 45%;
+    font-size: larger;
+    font-style: bold;
+
+}
+
+
+
+p1   {
+    position: absolute;
+    left: 42%;
+    top: 16%;
+    font-family: "calibri";
+
+}
+
+h1 {
+    position: absolute;
+    font-size: x-larger;
+    left: 32%;
+    font-family:"arial";
+    top: 0%;
+}
+
+
+#aa {
+
+    position: absolute;
+    left: 14%;
+    width:17%;
+    top: 10px;
+    background-color: gray;
+    border-radius: 100%;
+    
+
+}
+.line {
+    border: 1px solid black;
+    width: 41.5%;
+    position:absolute;
+    top: 14%;
+    left: 32.5%;
+}
+
+p2{
+
+    position: absolute;
+    left: 17%;
+    top: 40%;
+
+}
+
+#fname {
+
+    position: absolute;
+    top: 40%;
+    left: 28%;
+    width: 120px;
+}
+
+#a {
+
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+
+#lname {
+    position: absolute;
+    top: 40%;
+    left: 63%;
+    width: 140px;
+
+}
+
+p3 {
+    
+   position: absolute;
+    top: 40%;
+    left: 52%;
+    width: 120px;
+}
+
+#email {
+
+    position: absolute;
+    top: 52%;
+    left: 28%;
+    width: 380px;
+
+
+}
+
+p4 {
+    position:absolute;
+    top: 52%;
+    left: 20%;
+
+}
+
+
+#password {
+
+    position:absolute;
+    top: 65%;
+    left: 28%;
+    width: 120px;
+
+}
+
+p5 {
+    top:65%;
+    position: absolute;
+    left:17%;
+
+}
+
+#cpassword {
+
+    position: absolute;
+    top: 65%;
+    left: 66%;  
+    width: 120px;
+}
+
+p6 {
+    position: absolute;
+    top: 65%;
+    left:47%;
+}
+
+#register {
+
+    position:absolute;
+    top: 80%;
+    left: 45%;
+    width: 80px;
+cursor: pointer;
+border: 3px solid black;
+
+}
+
+p7 {
+    position: absolute;
+    bottom:3%;
+    left: 35%;
+
+
+}

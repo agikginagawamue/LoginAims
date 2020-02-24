@@ -1,0 +1,127 @@
+.container {
+
+border: 3px solid black;
+width: 50%;
+position: absolute;
+height: 60%;
+top: 10%;
+position:absolute;
+left: 25%;
+background-color:silver;
+
+}
+
+.line {
+    border: 1px solid black;
+    width: 41.5%;
+    position:absolute;
+    top: 14%;
+    left: 32.5%;
+}
+
+p1 {
+    position: absolute;
+    left: 42%;
+    top: 16%;
+    font-family: "calibri";
+
+}
+
+h1 {
+    position: absolute;
+    font-size: x-larger;
+    left: 32%;
+    font-family:"arial";
+}
+
+
+
+
+h2 {
+position: absolute;
+top: 40%;
+font-size:large;
+font-family: "arial";
+left: 10%;
+
+}
+
+h3 {
+    position: absolute;
+    top: 48%;
+    font-size:large;
+    font-family: "arial";
+    left: 10%;
+}
+
+#email {
+    border: 1px solid black;
+    position: absolute;
+    top: 43%;
+    width: 58%;
+    height: 6%;
+    left: 26%;
+
+}
+
+#password {
+
+
+    border: 1px solid black;
+    position: absolute;
+    top:52%;
+    left:31.5%;
+    width: 52.5%;
+    height: 6%;
+}
+
+#aa {
+
+    position: absolute;
+    left: 14%;
+    width:17%;
+    top: 10px;
+    background-color: gray;
+    border-radius: 100%;
+    
+
+}
+#login {
+position: absolute;
+border: 3px solid black;
+top: 70%;
+width: 50px;
+cursor: pointer;
+left: 45%;
+
+
+}
+
+p {
+position: absolute;
+top: 56%;
+left: 52%;
+
+}
+
+#google {
+position: absolute;
+top: 80%;
+left: 20%;
+cursor:pointer;
+}
+
+#facebook {
+position: absolute;
+top: 80%;
+left: 50%;
+cursor: pointer;
+}
+
+
+p9 {
+    position: absolute;
+    top: 60%;
+    left: 13%;
+    
+}

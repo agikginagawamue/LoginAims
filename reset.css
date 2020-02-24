@@ -1,0 +1,77 @@
+.container {
+
+    border: 3px solid black;
+    width: 50%;
+    position: absolute;
+    height: 60%;
+    top: 10%;
+    position:absolute;
+    left: 25%;
+    background-color:silver;
+    
+    }
+    
+    .line {
+        border: 1px solid black;
+        width: 41.5%;
+        position:absolute;
+        top: 14%;
+        left: 32.5%;
+    }
+    p1 {
+    position: absolute;
+    left: 42%;
+    top: 16%;
+    font-family: "calibri";
+
+}
+
+h1 {
+    position: absolute;
+    font-size: x-larger;
+    left: 32%;
+    font-family:"arial";
+}
+#aa {
+
+    position: absolute;
+    left: 14%;
+    width:17%;
+    top: 10px;
+    background-color: gray;
+    border-radius: 100%;
+    
+
+}
+
+h {
+    position: absolute;
+    top: 25%;
+    left: 45%;
+    font-size: larger;
+    font-style: bold;
+
+}
+
+
+#email {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    width: 200px;
+}
+
+p2 {
+position: absolute;
+top: 50%;
+left: 28%;
+
+}
+
+#reset {
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    border: 3px solid black;
+
+}
